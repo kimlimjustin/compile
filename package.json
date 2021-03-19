@@ -1,0 +1,15 @@
+{
+  "name": "compile",
+  "version": "1.0.0",
+  "description": "Compile c++ file",
+  "main": "index.js",
+  "bin": {
+    "compile": "bin/compile"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

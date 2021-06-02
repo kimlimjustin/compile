@@ -1,7 +1,7 @@
 {
   "name": "compile",
-  "version": "1.0.0",
-  "description": "Compile c++ file",
+  "version": "0.1.0",
+  "description": "Compile c/c++ file",
   "main": "index.js",
   "bin": {
     "compile": "bin/compile"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["c", "c++", "compiler", "mingw", "compile"],
+  "author": "Justin Maximillian Kimlim <kimlimjustin@gmail.com>",
+  "license": "MIT"
 }
